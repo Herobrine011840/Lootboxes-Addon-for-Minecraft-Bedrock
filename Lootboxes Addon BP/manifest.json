@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Herobrine011840"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.0"
+			],
+			"dash": [
+				"0.10.8"
+			]
+		}
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			19,
+			50
+		],
+		"uuid": "77981800-9a0f-4512-bdf3-ba023f287acd",
+		"version": [
+			1,
+			0,
+			2
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "f7355607-c532-452f-a1c2-0ddf904e3b1c",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "70229a09-6ab2-4d31-8e47-68b13ceb0c25",
+			"version": [
+				1,
+				0,
+				2
+			]
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "Lootboxes Addon",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"lootbox_lootbox": {
+			"textures": "textures/blocks/lootbox"
+		}
+	}
+}

@@ -1,0 +1,4 @@
+pack.name=Lootboxes Addon RP
+pack.description=This addon adds new lootboxes to the game.
+tile.lootbox:lootbox.name=Lootbox
+item.lootbox:echoing_eye=Echoing Eye

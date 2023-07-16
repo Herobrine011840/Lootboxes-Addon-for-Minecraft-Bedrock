@@ -1,0 +1,31 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "lootbox:echoing_eye"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"D": {
+				"item": "diamond"
+			},
+			"E": {
+				"item": "echo_shard"
+			},
+			"P": {
+				"item": "ender_eye"
+			}
+		},
+		"pattern": [
+			" ED",
+			"EPE",
+			"DE "
+		],
+		"result": {
+			"count": 1,
+			"item": "lootbox:echoing_eye"
+		}
+	}
+}
